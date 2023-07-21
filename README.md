@@ -12,4 +12,9 @@ For the physical user interface i made two tangible joysticks using the microcon
 For virtual user interface i simply use the tourch screen from IPad. 
 
 ## Screenshots
-![image](https://github.com/gzhenhan/CollabMaze/assets/57628471/9e6289be-db73-4112-96b2-050589ef2631)
+<img src="https://github.com/gzhenhan/CollabMaze/assets/57628471/9e6289be-db73-4112-96b2-050589ef2631" width="800">
+<img src="https://github.com/gzhenhan/CollabMaze/assets/57628471/764bddab-5876-4ba2-b292-4f49f6c9e696" width="800">
+
+
+### P.s
+Currently only the GUI version of the code is uploaded, the TUI version of the code will be uploaded later.
