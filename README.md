@@ -17,4 +17,5 @@ For virtual user interface i simply use the tourch screen from IPad.
 
 
 ### P.s
-Currently only the GUI version of the code is uploaded, the TUI version of the code will be uploaded later.
+- Currently only the GUI version of the code is uploaded, the TUI version of the code will be uploaded later.
+- Added settings button UI, coding part needs to be updated later
